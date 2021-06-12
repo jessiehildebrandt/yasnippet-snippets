@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: jsdoc-returns
+# key: @returns
+# --
+* @returns {${type}} ${desc}

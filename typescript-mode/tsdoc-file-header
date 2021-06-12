@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: tsdoc-file-header
+# key: @file
+# --
+/**
+* ${file}
+*
+* ${desc}
+*
+* @packageDocumentation
+*/

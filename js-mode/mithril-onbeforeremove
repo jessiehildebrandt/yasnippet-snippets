@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: mithril-onbeforeremove
+# key: @mithril-onbeforeremove
+# --
+/* ---------------------------------- */
+/* onbeforeremove */
+
+/**
+* Called before component element is removed from the DOM
+*
+* @param {m.VnodeDOM} vnode - The VnodeDOM object representing the component
+*
+* @returns {Promise} A promise that will resolve once the component may be detached
+*/
+onbeforeremove: ( { dom, attrs, state } ) => {
+$0
+}

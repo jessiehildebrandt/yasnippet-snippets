@@ -1,0 +1,29 @@
+# -*- mode: snippet -*-
+# name: mithril-component
+# key: @mithril-component
+# --
+/* -------------------------------------------------------------------------- */
+/* Package imports */
+
+import m from 'mithril';
+
+/* -------------------------------------------------------------------------- */
+/* Component attributes */
+
+interface Attrs
+{}
+
+interface State
+{}
+
+/* -------------------------------------------------------------------------- */
+/* Component implementation */
+
+const ${1:componentName}: m.Comp<Attrs, State> = {
+$0
+}
+
+/* -------------------------------------------------------------------------- */
+/* Export */
+
+export default $1;

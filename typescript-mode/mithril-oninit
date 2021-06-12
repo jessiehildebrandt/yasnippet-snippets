@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name: mithril-oninit
+# key: @mithril-oninit
+# --
+/* ---------------------------------- */
+/* oninit */
+
+/**
+* Called when the component is initialized
+*
+* @param vnode - The Vnode representing the component
+*/
+oninit: ( { attrs, state } ) => {
+$0
+}

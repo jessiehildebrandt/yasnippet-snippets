@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: jsdoc-interface
+# key: @interface
+# --
+* @name ${name}
+* @interface

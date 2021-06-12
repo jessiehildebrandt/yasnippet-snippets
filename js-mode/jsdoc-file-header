@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: jsdoc-file-header
+# key: @file
+# --
+/**
+* ${file}
+*
+* @file ${desc}
+*
+* @author ${author}
+*/

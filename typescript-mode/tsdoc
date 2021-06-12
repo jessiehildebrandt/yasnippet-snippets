@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: tsdoc
+# key: @tsdoc
+# --
+/**
+* $0
+*/

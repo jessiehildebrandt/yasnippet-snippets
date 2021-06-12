@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: mithril-view
+# key: @mithril-view
+# --
+/* ---------------------------------- */
+/* view */
+
+/**
+* Called whenever the component is drawn
+*
+* @param vnode - The Vnode representing the component
+*
+* @returns The Vnode or Vnode tree to be rendered
+*/
+view: ( { attrs, state } ) => {
+return m($0);
+}

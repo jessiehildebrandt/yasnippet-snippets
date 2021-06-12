@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: jsdoc-param
+# key: @param
+# --
+* @param {${type}} ${name} - ${desc}

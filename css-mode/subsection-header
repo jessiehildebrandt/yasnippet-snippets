@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: subsection-header
+# key: @sub
+# --
+/**************************************/
+/* ${title} */
+$0
