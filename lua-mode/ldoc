@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ldoc
+# key: @ldoc
+# --
+--- ${summary}
+$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ldoc-param
+# key: @param
+# --
+-- @param ${name} ${desc}

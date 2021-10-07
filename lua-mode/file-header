@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: file-header
+# key: @file
+# --
+-- ${file}
+-- ${desc}
