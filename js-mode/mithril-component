@@ -3,7 +3,7 @@
 # key: @mithril-component
 # --
 /* -------------------------------------------------------------------------- */
-/* Package imports */
+/* Module imports */
 
 import m from 'mithril';
 
@@ -19,7 +19,7 @@ interface State
 /* -------------------------------------------------------------------------- */
 /* Component implementation */
 
-const ${1:componentName}: m.Comp<Attrs, State> = {
+const ${1:componentName} = {
 $0
 }
 
