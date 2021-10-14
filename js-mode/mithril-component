@@ -8,15 +8,6 @@
 import m from 'mithril';
 
 /* -------------------------------------------------------------------------- */
-/* Component attributes */
-
-interface Attrs
-{}
-
-interface State
-{}
-
-/* -------------------------------------------------------------------------- */
 /* Component implementation */
 
 const ${1:componentName} = {
