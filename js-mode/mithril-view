@@ -12,6 +12,6 @@
 *
 * @returns {m.Vnode} - The Vnode or Vnode tree to be rendered
 */
-view: ( { attrs, state } ) => {
+view: () => {
 return m($0);
 }
